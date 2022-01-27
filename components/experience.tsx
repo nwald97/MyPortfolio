@@ -34,7 +34,7 @@ export default function Experience() {
     <section id="experience" className="bg-white static">
       <div className="max-w-6xl mx-auto h-48 bg-white">
         <h1 className=" text-6xl md:text-6xl font-bold py-20 text-center md:text-center">
-          Experience
+          Work Experience
         </h1>
       </div>
       <div className="bg-[#F1F1F1] -mt-4">
