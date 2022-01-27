@@ -1,5 +1,7 @@
 import Image from 'next/image'
 import ProfileImage from '../assets/newprofile-pic.png'
+import WatchMe from './watchme';
+
 
 // Replace the file profile-pic.png with your profile-pic
 // I was too lazy to build the const for all the inputs of this component, but they are easy to find and replace it. I will improve it later.
