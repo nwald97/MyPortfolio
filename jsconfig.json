@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@components/*": ["components/*"],
+      "@styles/*": ["styles/*"]
+    }
+  },
+  "images": {
+    "domains": ["media-exp1.licdn.com", "miro.medium.com", "images.unsplash.com"],
+  },
+}
