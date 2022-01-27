@@ -14,15 +14,7 @@ export default function WatchMe() {
 
   return (
     <>
-      <div className="">
-        <button
-          type="button"
-          onClick={openModal}
-          className="bg-indigo-700 active:bg-pink-600 uppercase text-white font-bold hover:shadow-md shadow text-xs px-4 py-2 rounded outline-none focus:outline-none sm:mr-2 mb-1"
-        >
-          Watch Me
-        </button>
-      </div>
+      
 
       <Transition appear show={isOpen} as={Fragment}>
         <Dialog
