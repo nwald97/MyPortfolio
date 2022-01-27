@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import ProfileImage from '../assets/profile-pic.png'
+import ProfileImage from '../assets/newprofile-pic.png'
 import WatchMe from './watchme';
 
 // Replace the file profile-pic.png with your profile-pic
