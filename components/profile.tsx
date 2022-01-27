@@ -92,18 +92,16 @@ export default function ProfileHero() {
                 </div>
                 <div className="text-center mt-12">
                   <h3 className="text-4xl font-semibold leading-normal text-gray-800">
-                    FName LName
+                    Nathaniel Waldman
                   </h3>
                   <div className="text-sm leading-normal mt-0 text-gray-500 font-bold uppercase">
                     <i className="fas fa-map-marker-alt mr-2 text-lg text-gray-500"></i>{" "}
-                    City, Province
+                    Victoria, BC
                   </div>
                   <div className="mb-2 text-gray-700 mt-2">
-                    Position you are looking for
-                  </div>
+Aspiring Product Manager looking for an associate position                </div>
                   <div className="mb-0 text-gray-700">
-                    Most Recent Graduation/Master/PhD
-                  </div>
+Honours B.A grad with a certification in Product Management                  </div>
                 </div>
                 <div className="mt-10 py-10 border-t border-gray-300 text-center">
                   <div className="flex flex-wrap justify-center">
