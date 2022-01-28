@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Logo from "../assets/logo-placeholder.png";
+import Logo from "../assets/newprofile-pic.png";
 import LinkedIn from "../assets/linkedin-logo.png"
 import Link from "next/link";
 
@@ -26,7 +26,7 @@ export default function Footer() {
                     className="w-8"
                     />                
                 <div className="h5 ml-2 text-2xl font-black tracking-wider">
-                    Your Name
+                    Nathaniel Waldman
                 </div>
           </div>
           <div className="mt-8 font-medium flex flex-wrap justify-center items-center flex-col sm:flex-row">
