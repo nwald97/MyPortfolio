@@ -1,4 +1,3 @@
-import TrustMe from "../components/trustme";
 import Experience from "../components/experience";
 import ProfileHero from "../components/profile";
 import PopularPosts from "../components/popularposts";
@@ -10,7 +9,6 @@ export default function IndexPage() {
     return (
      <Layout>
         <ProfileHero />
-        <TrustMe />
         <PopularPosts />
         <Experience />
         <FAQ />
