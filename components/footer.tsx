@@ -13,7 +13,7 @@ const footernavigation = [
 
 export default function Footer() {
   return (
-    <footer id="footer" className="relative bg-black-300 text-white-900 -mx-8 -mb-8">
+    <footer id="footer" className="relative bg-black-300 text-black-900 -mx-8 -mb-8">
       <div className="max-w-screen-xl mx-auto py-20 lg:py-24">
         <div className="flex items-center justify-center flex-col px-8">
           <div className="flex items-center justify-center md:justify-start">
@@ -25,7 +25,7 @@ export default function Footer() {
                     height={40}
                     className="w-8"
                     />                
-                <div className="h5 ml-2 text-2xl font-black tracking-wider">
+                <div className="h5 ml-2 text-2xl font-white tracking-wider">
                     Nathaniel Waldman
                 </div>
           </div>
