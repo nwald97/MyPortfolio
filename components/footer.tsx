@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Logo from "../assets/logo-placeholder.png";
-import Facebook from "../assets/facebook-icon.png"
 import LinkedIn from "../assets/linkedin-logo.png"
-import Twitter from "../assets/twitter-icon.png"
 import Link from "next/link";
 
 
@@ -23,8 +21,8 @@ export default function Footer() {
                     src={Logo} 
                     objectPosition="hover"
                     alt="placeholder-logo"
-                    width={30}
-                    height={30}
+                    width={40}
+                    height={40}
                     className="w-8"
                     />                
                 <div className="h5 ml-2 text-2xl font-black tracking-wider">
@@ -42,33 +40,14 @@ export default function Footer() {
             ))}
           </div>
           <div className="mt-10">
-            <Link href="#">
-                <Image 
-                    src={Facebook} 
-                    objectPosition="hover"
-                    alt="facebook"
-                    width={30}
-                    height={30}
-                    className="px-10"
-                    />
-            </Link>
-            <Link href="#">
-                <Image 
-                    src={Twitter} 
-                    objectPosition="hover"
-                    alt="facebook"
-                    width={30}
-                    height={30}
-                    className="px-10"
-                    />
-            </Link>
+            
             <Link href="#">
                 <Image 
                     src={LinkedIn} 
                     objectPosition="hover"
                     alt="facebook"
-                    width={30}
-                    height={30}
+                    width={40}
+                    height={40}
                     className="px-10"
                     />
             </Link>
