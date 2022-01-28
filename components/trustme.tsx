@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Company01 from "../assets/company-logo-01.png"
+import Company01 from "../assets/Used_Logo.png"
 import Company02 from "../assets/company-logo-02.png"
 import Company03 from "../assets/company-logo-03.png"
 import Company04 from "../assets/company-logo-04.png"
