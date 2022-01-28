@@ -1,5 +1,7 @@
 import Image from 'next/image'
 import ProfileImage from '../assets/newprofile-pic.png'
+import backgroundImage from '../assets/background.jpeg'
+
 import WatchMe from './watchme';
 
 
@@ -14,7 +16,10 @@ export default function ProfileHero() {
             className="absolute top-0 w-full h-full bg-center bg-cover"
             style={{
               backgroundImage:
-                "url('https://images.unsplash.com/photo-1637520943049-648cec6c18d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80')"
+              <img> src: '../assets/background.jpeg'
+                
+                <img/> 
+              
             }}
           >
             <span
