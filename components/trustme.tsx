@@ -18,8 +18,8 @@ export default function TrustMe() {
         <div className="my-4 mx-4">
           <Image
             src={Company01}
-            width={120}
-            height={50}
+            width={140}
+            height={70}
             alt="logo company"
           />
         </div>
