@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Logo from "../assets/logo-placeholder.png";
 import Facebook from "../assets/facebook-icon.png"
-import Youtube from "../assets/youtube-icon.png"
+import LinkedIn from "../assets/linkedin-logo.png"
 import Twitter from "../assets/twitter-icon.png"
 import Link from "next/link";
 
@@ -64,7 +64,7 @@ export default function Footer() {
             </Link>
             <Link href="#">
                 <Image 
-                    src={Youtube} 
+                    src={LinkedIn} 
                     objectPosition="hover"
                     alt="facebook"
                     width={30}
