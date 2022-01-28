@@ -25,7 +25,7 @@ export default function Footer() {
                     height={40}
                     className="w-8"
                     />                
-                <div className="h5 ml-2 text-2xl font-white tracking-wider">
+                <div className="h5 ml-2 text-2xl font-black tracking-wider">
                     Nathaniel Waldman
                 </div>
           </div>
@@ -34,7 +34,7 @@ export default function Footer() {
                 <a 
                     key={item.name}
                     href={item.href}
-                    className="border-b-2 border-transparent hocus:text-gray-300 hocus:border-gray-300 pb-1 transition duration-300 mt-2 mx-4">
+                    className="border-b-2 border-transparent hocus:text-white-300 hocus:border-black-300 pb-1 transition duration-300 mt-2 mx-4">
                 {item.name}
                 </a>
             ))}
