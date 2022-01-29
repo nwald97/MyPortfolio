@@ -41,7 +41,7 @@ export default function Footer() {
           </div>
           <div className="mt-10">
             
-            <Link href= "https://www.linkedin.com/in/nathanielwaldman/">
+            <Link href= "https://www.linkedin.com/in/nathanielwaldman/" target=”_blank”>
                 <Image 
                     src={LinkedIn} 
                     objectPosition="hover"
