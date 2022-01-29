@@ -103,9 +103,9 @@ export default function ProfileHero() {
                     Victoria, BC
                   </div>
                   <div className="mb-2 text-gray-700 mt-2">
-Aspiring Product Manager looking for an associate position                </div>
+Aspiring Associate Product Manager                </div>
                   <div className="mb-0 text-gray-700">
-Honours B.A grad with a certification in Product Management                  </div>
+Honours B.A grad with a cert in Product Management                  </div>
                 </div>
                 <div className="mt-10 py-10 border-t border-gray-300 text-center">
                   <div className="flex flex-wrap justify-center">
