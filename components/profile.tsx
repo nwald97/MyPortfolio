@@ -111,17 +111,10 @@ Honours B.A grad with a certification in Product Management                  </d
                   <div className="flex flex-wrap justify-center">
                     <div className="w-full lg:w-9/12 px-4">
                       <p className="mb-4 text-lg leading-relaxed text-gray-800">
-                      Tell more about yourself in this section—this is your chance to
-                      shine and keep the visitor scrolling down to your page. Share your
-                      proudest accomplashments, complex projects. Treat yourself as a product,
-                      and find the market-fit works to describe you. You can change anything in
-                      this section, from the background image, the the stats in the left.
-                      Be Careful not to repeat the information you share in the following sections.
-                      Tips: 1. 184 WORDS MAX 2. If you're unsure what to include, I like to recommend
-                      the Past/Present/Future structure. Discuss how you started your career (past),
-                      what you're doing right now (present), and what you're looking forward to in the future!
-                      3. Don't use ineffective buzzwords and cliches like 'team player', 'hard working' or 'self-starter'.
-                      These are overused and vague, and reduce the impact of your profile.
+                      Hello, welcome to my website!
+
+In 2019, I graduated from the University of Victoria with an Honours B.A degree in Sociology. Why did I study this major? Because I have always been curious about human behaviour, plus research and writing are two of my favourite hobbies. I planned on pursuing law school, and I even wrote the LSAT during the pandemic. However, after taking on the duties of a Product Owner while working for Used.ca, I realized that advocating for users was something that I loved. I figured that pursuing something I knew I loved was a better decision than law school, which I might enjoy. I decided to further my undergrad education with a certificate in Product Management through the digital education school, BrainStation. Currently, I am remotely working two part-time jobs: one as a Project Coordinator and the other as a Research Analyst. These roles are building on my experience in tech, and I am now actively seeking an entry-level position on a Product team. If you think I could be a good fit for your team, I would love to hear from you!
+
                       </p>
                     </div>
                   </div>
