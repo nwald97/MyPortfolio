@@ -3,13 +3,13 @@ import Footer from './footer';
 
 export default function Layout({children}) {
   return (
-    <main className="bg-gray-50">
+    <main className="bg-black-50">
       <Head>
         <title>OpenPortfolio</title>
         <meta name="robots" content="follow, index" />
         <meta content="description" />
       </Head>
-      <section id="skip" className="flex flex-col justify-center bg-gray-50">
+      <section id="skip" className="flex flex-col justify-center bg-black-50">
         {children}
         <Footer />
       </section>
