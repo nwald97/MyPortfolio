@@ -72,15 +72,15 @@ export default function ProfileHero() {
                     <div className="flex justify-center py-4 lg:pt-4 pt-8">
                       <div className="mr-4 p-3 text-center">
                         <span className="text-xl font-bold block uppercase tracking-wide text-gray-700">
-                          10
+                          1
                         </span>
                         <span className="text-sm text-gray-500">
-                            Awards
+                            Degrees
                         </span>
                       </div>
                       <div className="mr-4 p-3 text-center">
                         <span className="text-xl font-bold block uppercase tracking-wide text-gray-700">
-                          89
+                          8
                         </span>
                         <span className="text-sm text-gray-500">
                             Projects</span>
