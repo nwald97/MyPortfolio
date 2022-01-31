@@ -75,7 +75,7 @@ export default function ProfileHero() {
                           1
                         </span>
                         <span className="text-sm text-gray-500">
-                            Degrees
+                            Degree
                         </span>
                       </div>
                       <div className="mr-4 p-3 text-center">
@@ -87,9 +87,9 @@ export default function ProfileHero() {
                       </div>
                       <div className="lg:mr-4 p-3 text-center">
                         <span className="text-xl font-bold block uppercase tracking-wide text-gray-700">
-                          89
+                          8
                         </span>
-                        <span className="text-sm text-gray-500">Articles</span>
+                        <span className="text-sm text-gray-500">Blog Posts</span>
                       </div>
                     </div>
                   </div>
